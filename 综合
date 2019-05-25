@@ -163,3 +163,14 @@ baidu.com##.full-screen-second-container
 baidu.com##.BK-after-content-wrapper
 api.skyrj.com##div.mains:nth-child(3) > div:nth-child(2) > a > img.img-responsive.center-block
 api.skyrj.com###search-init-wrap > div:nth-child(2)
+m.allhistory.com###app > div.navbar-container:first-child
+jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > div.exp-content-outer:first-child > div.exp-content-container.fold:first-child > div.exp-whole-content > div.iframe-container-opt:nth-child(2)
+jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > div.exp-content-outer:first-child > div.exp-content-container.fold:first-child > div.exp-whole-content > div.wgt-exp-head:first-child
+jingyan.baidu.com###tee5ce8bb > div.ui-slider-wheel:first-child > div.ui-slider-group > div.wrapper-slider.ui-slider-item:last-child
+jingyan.baidu.com###wrapper > div.wgt-footer:last-child
+jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > div.tee5ce8bc:last-child
+zhidao.baidu.com###respect-footer
+zhidao.baidu.com###main-content > a.ask-for-friend:nth-child(4)
+baike.baidu.com###J-lemma > div.BK-body-wrapper:nth-child(6) > div.BK-after-content-wrapper:nth-child(4)
+baike.baidu.com###BK_before_content_wrapper > div.full-screen-second-container:nth-child(3)
+m.baidu.com###page-hd > div.se-page-hd-content > div.searchboxtop:nth-child(2)
