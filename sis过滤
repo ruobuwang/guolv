@@ -42,3 +42,8 @@
 @@||174.127.195.228/bbs/images/green/reply.gif
 @@||174.127.195.228/bbs/images/thanks.gif
 @@||38.103.161.131/bbs/images/thanks.gif
+||174.127.195.228/bbs/images/*.gif$image
+||174.127.195.228/bbs/images/green/agree.gif
+||174.127.195.228/bbs/images/joinvip.gif
+||38.103.161.131/forum/images/*.*$image
+||38.103.161.131/forum/images/*.*$image
