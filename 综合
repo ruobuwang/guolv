@@ -217,3 +217,9 @@ blog.csdn.net###operate
 blog.csdn.net##.view_comment_box
 blog.csdn.net##.floatR.write_comment_btn
 blog.csdn.net###csdn-toolbar
+||img.solidot.org//0/446/liiLIZF8Uh6yM.jpg$image
+www.v2ex.com##.small.fade
+www.v2ex.com##body > div:nth-of-type(4)
+www.v2ex.com###Bottom
+www.v2ex.com##div.box:nth-of-type(5)
+www.v2ex.com###Top
