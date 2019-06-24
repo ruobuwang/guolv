@@ -265,3 +265,26 @@ m.sohu.com##div.article-page:nth-child(3) > div.article-content-wrapper:last-chi
 m.sohu.com###backTop
 m.sohu.com##div.article-page:nth-child(3) > div.sub-header.noFixed:first-child
 m.sohu.com###artLifeService
+174.127.195.228##table#forum_361:nth-of-type(2)
+174.127.195.228##table#forum_361:nth-of-type(3)
+174.127.195.228##table#forum_361:nth-of-type(4)
+174.127.195.228##table#forum_402:nth-of-type(2)
+174.127.195.228##table#forum_402:nth-of-type(3)
+174.127.195.228##table#forum_402:nth-of-type(4)
+174.127.195.228##table#forum_322:nth-of-type(3)
+174.127.195.228##table#forum_322:nth-of-type(2)
+174.127.195.228##table#forum_383:nth-of-type(2)
+174.127.195.228##table#forum_383:nth-of-type(3)
+174.127.195.228##table#forum_383:nth-of-type(4)
+174.127.195.228##table#forum_372:nth-of-type(2)
+174.127.195.228##table#forum_372:nth-of-type(3)
+174.127.195.228##table#forum_372:nth-of-type(4)
+38.103.161.131##table#forum_322:nth-of-type(2)
+38.103.161.131##table#forum_322:nth-of-type(3)
+38.103.161.131##table#forum_383:nth-of-type(2)
+38.103.161.131##table#forum_383:nth-of-type(3)
+38.103.161.131##.portalbox
+38.103.161.131##.forumlist.mainbox > h3
+174.127.195.228##.portalbox
+174.127.195.228##.forumlist.mainbox > h3
+38.103.161.131###headfilter
