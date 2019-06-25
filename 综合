@@ -1,4 +1,3 @@
-
 ||img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/MjY4A5YVEoc8HEAic2KOLDbyY8xzk8uWB1MbL2VibtAX9loIF4osLZica74QnGshq4UtSkyB9Sakv98yvPZR9te6A/640?wx_fmt=jpeg$image
 ||img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/MjY4A5YVEodc6Pzats2o1fP6EJspC7icTHxD3xILwqDoEODprscKicKLB1mEib4J5qW8pfsyOW4sibjKOkl3efv4fA/640?wx_fmt=jpeg$image
 ||www.centbrowser.cn/forum/static/image/*.gif$image
@@ -192,18 +191,11 @@ yingyang.911cha.com##div.box:nth-child(9)
 zh.m.wikipedia.org##.branding-box
 zh.m.wikipedia.org##.heading-holder.pre-content
 zh.m.wikipedia.org##.minerva-footer
-zhidao.baidu.com###feed-recommend
 zhidao.baidu.com###iknow-common-header
-zhidao.baidu.com###main-content > a.ask-for-friend:nth-child(4)
-zhidao.baidu.com###main-content > a.ask-for-friend:nth-child(6)
-zhidao.baidu.com###main-content > div.question-container:first-child > div.new-answer-entry.left-show:nth-child(5) > a > img
-zhidao.baidu.com###respect-footer
 zhidao.baidu.com###w-1
-zhidao.baidu.com###w-1
+zhidao.baidu.com##.widget-video-entry
+zhidao.baidu.com###feed-recommend
 zhidao.baidu.com##.ask-for-friend
-zhidao.baidu.com##.best-answer-container > .dec
-zhidao.baidu.com##.wgt-conference-entry
-zhidao.baidu.com##.wgt-question
 www.jianshu.com##.dt-open-bg
 www.jianshu.com##.comment-open-app-btn-wrap
 www.jianshu.com###recommended-notes
