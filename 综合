@@ -33,8 +33,6 @@
 ||pic.36krcnd.com/avatar/201609/05123501/kf07f2xssrseawh4.png$image
 api.skyrj.com###search-init-wrap > div:nth-child(2)
 api.skyrj.com##div.mains:nth-child(3) > div:nth-child(2) > a > img.img-responsive.center-block
-baidu.com##.BK-after-content-wrapper
-baidu.com##.full-screen-second-container
 baijiahao.baidu.com###searchwordSdk
 baike.baidu.com###BK_before_content_wrapper > div.full-screen-second-container:nth-child(3)
 baike.baidu.com###J-declare
@@ -90,8 +88,6 @@ limufang.com###comments
 m.allhistory.com###app > div.navbar-container:first-child
 m.allhistory.com##.navbar-container
 m.allhistory.com##.recommend-box
-
-
 m.douyu.com###root > div.p-room:first-child > div.header:first-child > div.btn-open-app:nth-child(2)
 m.douyu.com###root > div.p-room:first-child > div.l-tabs:last-child > div.c-tabs > div.c-tabs-content.cur0:last-child
 m.douyu.com###root > div.search-app > div.layout-content:last-child
@@ -169,11 +165,6 @@ yingyang.911cha.com##div.box:nth-child(9)
 zh.m.wikipedia.org##.branding-box
 zh.m.wikipedia.org##.heading-holder.pre-content
 zh.m.wikipedia.org##.minerva-footer
-zhidao.baidu.com###iknow-common-header
-zhidao.baidu.com###w-1
-zhidao.baidu.com##.widget-video-entry
-zhidao.baidu.com###feed-recommend
-zhidao.baidu.com##.ask-for-friend
 www.jianshu.com##.dt-open-bg
 www.jianshu.com##.comment-open-app-btn-wrap
 www.jianshu.com###recommended-notes
@@ -185,7 +176,6 @@ www.jianshu.com##.ic-icon_jewel.iconfont
 www.jianshu.com##.article-info > .meta > span:nth-of-type(1)
 blog.csdn.net###recommend
 blog.csdn.net###article > p:last-child
-www.baidu.com##.rw-title
 ||ym.bingly.cn/user/images/bg.jpg$image
 buy.bingly.cn##div.row:nth-of-type(1) > div.col-sm-6:nth-of-type(1)
 buy.bingly.cn###goodTypeContents > p
