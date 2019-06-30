@@ -245,3 +245,16 @@ m.sohu.com##div.article-page:nth-child(3) > div.article-content-wrapper:last-chi
 m.sohu.com###backTop
 m.sohu.com##div.article-page:nth-child(3) > div.sub-header.noFixed:first-child
 m.sohu.com###artLifeService
+bbs.pcbeta.com###hd
+bbs.pcbeta.com###pgt  
+bbs.pcbeta.com###scbar  
+bbs.pcbeta.com###tools  
+bbs.pcbeta.com###toptb  
+bbs.pcbeta.com###wp>div:nth-of-type(1)
+bbs.pcbeta.com##.cl.hdc  
+bbs.pcbeta.com##.forum_top  
+bbs.pcbeta.com##.forum_top_sub  
+bbs.pcbeta.com##.ftbg  
+bbs.pcbeta.com##.grwPQV  
+bbs.pcbeta.com##.iruzCHIV  
+bbs.pcbeta.com##.jqzGSW  
