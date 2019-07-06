@@ -268,3 +268,11 @@ m.sohu.com##.footer-tag-state
 m.sohu.com##.article.footer_menu.plate
 m.sohu.com###backTop
 m.sohu.com##.bottom-slot
+m.digitaling.com##header.clearfix
+m.digitaling.com##p:nth-of-type(40)
+m.digitaling.com##.mg_b_20.pd_30.clearfix
+m.digitaling.com##.zan_box.clearfix
+m.digitaling.com##.clearfix.relate
+m.digitaling.com###hot_articles
+m.digitaling.com###comments
+m.digitaling.com##.clearfix.pub_info > div.clearfix:nth-of-type(2)
