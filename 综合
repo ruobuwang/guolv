@@ -287,3 +287,12 @@ i.y.qq.com##.js_songsheet.related_album
 i.y.qq.com##.js_cmt.comment
 i.y.qq.com##.js_expose.js_video.recommend_mv
 i.y.qq.com##.bottom_operation_box
+app.myzaker.com###article_bottom
+app.myzaker.com###relateArea
+app.myzaker.com##body > .common_top
+app.myzaker.com##.zk_top_barwrap
+app.myzaker.com###ID_disclaimer
+app.myzaker.com##.comment_list_wrapper
+app.myzaker.com##.show-icon.fixed-comment-bottom-bar
+app.myzaker.com##.fixed-comment-bottom-bar
+app.myzaker.com##.article_more
