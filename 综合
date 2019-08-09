@@ -296,3 +296,28 @@ app.myzaker.com##.comment_list_wrapper
 app.myzaker.com##.show-icon.fixed-comment-bottom-bar
 app.myzaker.com##.fixed-comment-bottom-bar
 app.myzaker.com##.article_more
+m.baidu.com###page-hd > div.se-page-hd-content
+m.baidu.com###sfr-app > div.rt-view.active.iknow-root-dom-element > div.rt-head:first-child
+zhidao.baidu.com###main-content > div.question-container:first-child > div.wmsdg5d11eb.icon-bannerad.zhidao_na_middle:nth-child(12)
+zhidao..baidu.com###sfr-app > div.rt-view.iknow-root-dom-element.active > div.rt-head:first-child
+m.baidu.com###page-copyright
+i.y.qq.com##article.wrap:nth-child(3) > section.recommend_mv.js_video:nth-child(10)
+video.h5.weibo.cn##div.m-container-max:first-child > div:first-child > div > div.video-land-page > div > div.m-kr-logo.m-box.m-box-center-a.topbar:first-child
+wap.cool18.com##div.main.notTop:nth-child(2) > div.articleBox:first-child > article.article-con:first-child > ul.article-exp:last-child
+wap.cool18.com##div.main.notTop:nth-child(2) > div.articleBox:first-child > div:nth-child(2)
+wap.cool18.com##div.main.notTop:nth-child(2) > div.bottom-wrapper:nth-child(2)
+wap.cool18.com##div.main.notTop:nth-child(2) > div.see-more:last-child
+wap.cool18.com##footer.footer-nav:nth-child(3)
+wap.cool18.com##div.main.notTop:nth-child(2) > div.articleBox:first-child > article.article-con:first-child > div.article-head:nth-child(2)
+wap.cool18.com##div.main.notTop:nth-child(2) > div.articleBox:first-child > article.article-con:first-child > h1.article-tit:first-child
+cool18.com###site_map
+cool18.com##div.body_center:nth-child(4)
+cool18.com###main > div.btn-like:last-child
+cool18.com###footer_link
+tieba.baidu.com###main > div.j_pb_footer.j_footer.footer.pb-footer:last-child
+i.y.qq.com##article.wrap:nth-child(3) > section.related_info.js_singeralbum:nth-child(8)
+i.y.qq.com##article.wrap:nth-child(3) > section.main.js_main.has_pendant:nth-child(5) > div.pendant.js_pg_pendant:last-child
+m.baidu.com###page-ft
+m.baidu.com###page-copyright
+www.inoreader.com##.sd
+www.inoreader.com##.icon-envelop.icon16
