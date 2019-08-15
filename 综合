@@ -71,7 +71,6 @@ google.com.hk###sfooter
 google.com.hk##div.fbar.M6hT6.As6eLe:nth-child(12)
 h5.m.taobao.com##.detail-recommend
 h5.m.taobao.com##img.desc-img:nth-of-type(2)
-houxu.app##body > div.container:nth-of-type(1)
 houxu.app##div.container:nth-of-type(2)
 i.y.qq.com##article.wrap:nth-child(3) > section.bottom_operation_box:last-child
 jiejinghe.com##div.jss1716.jss1739:nth-child(10)
