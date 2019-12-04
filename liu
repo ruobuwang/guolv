@@ -334,3 +334,34 @@ www.inoreader.com##.icon-envelop.icon16
 ||pic4.zhimg.com/80/v2-e833fbc9669ec7dbc48a4a9c94ef351f_hd.jpg$image
 www.inoreader.com##.popularity_div_internal
 ||pic4.zhimg.com/v2-e833fbc9669ec7dbc48a4a9c94ef351f_r.jpg$image
+
+-----------
+zhidao.baidu.com###main-content > div.question-container:first-child > div.wgt-topic-hot.js-hot-topic:nth-child(16)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.new-answer-entry.left-show:nth-child(5)
+baijiahao.baidu.com###page_wrapper > div > div._1k19YN3-qdVhoYpBLDMjY:nth-child(9)
+jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > div.wgt-rel-exp-feed:last-child
+baijiahao.baidu.com###page_wrapper > div > div.outmargin:nth-child(3)
+baijiahao.baidu.com###page_wrapper > div > div.outmargin:nth-child(4)
+baijiahao.baidu.com###page_wrapper > div > div.outmargin:nth-child(5)
+baijiahao.baidu.com###page_wrapper > div > div.outmargin:nth-child(6)
+baijiahao.baidu.com###content_wrapper > div:nth-child(2) > div.packupButton.contentPadding.packupButton3:last-child > div.openall:last-child
+m.baidu.com###BK_before_content_wrapper > div.second-container:nth-child(3)
+m.baidu.com###header_wrapper
+xw.qq.com###__xw_next_view_root > div:first-child > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-3630404267.recommend-modules:nth-child(6)
+xw.qq.com###__xw_next_view_root > div:first-child > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-2214405216.hairline-top:nth-child(5)
+xw.qq.com###__xw_next_view_root > div:first-child > div.jsx-1273719342 > div.headroom-wrapper:first-child
+baijiahao.baidu.com###page_wrapper > div > div._1k19YN3-qdVhoYpBLDMjYV:nth-child(4)
+baijiahao.baidu.com###page_wrapper > div > div.newVersion:nth-child(2)
+m.baidu.com###page_wrapper > div > div._1k19YN3-qdVhoYpBLDMjYV:nth-child(9)
+jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.nmnen5db714.icon-bdad:nth-child(11)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-3630404267.recommend-modules:nth-child(6)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-3226907917.hairline-top:nth-child(5)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.comments.section-modules:nth-child(7)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-1273719342:nth-child(10)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-1273719342.main-wrapper:nth-child(2) > div.jsx-3226907917.hairline-top:nth-child(4)
+xw.qq.com###__xw_float_view_root > div.jsx-1273719342 > div.jsx-3558551061.article-footer:nth-child(4)
+m.baidu.com###detailContainer > div.health-barea:last-child
+
+-------------
+
